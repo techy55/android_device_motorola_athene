@@ -15,3 +15,7 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_athene.mk
+
+COMMON_LUNCH_CHOICES += \
+    omni_athene-eng \
+    omni_athene-userdebug
