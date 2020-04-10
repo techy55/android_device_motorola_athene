@@ -27,7 +27,7 @@
     "remote": "github",
     "repository": "DonkeyCoyote/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "revision": "android-10.0"
+    "revision": "android-10"
   },
   {
     "remote": "omnirom",
